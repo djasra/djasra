@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @djasra
-- 👀 I’m interested in DevOps, CICD, Cloud, It Security, Big Data and Artificial Intelligence topics
+- 👋 Hi, I’m @djasra.
+- 👀 I’m interested in DevOps, CICD, Cloud, It Security, Big Data and Artificial Intelligence topics.
 - 🌱 I’m currently looking for new challenges arround Java REST API and PKI.
 <!---
 djasra/djasra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
